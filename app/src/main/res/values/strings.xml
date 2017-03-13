@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_title">Nom de la version: </string>
+    <string name="list_desc">Numéro de la version: </string>
+
+    <string-array name="menu_items">
+        <item>Simple list</item>
+        <item>Custom list</item>
+        <item>list3</item>
+        <item>list4</item>
+    </string-array>
+
+</resources>
